@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "playerName": "Hardik Pandya",
+      "from": "MI",
+      "price": "6.50 Cr",
+      "isPlaying": true,
+      "description": "All-rounder",
+      "img": "https://sportstar.thehindu.com/cricket/article30975154.ece/ALTERNATES/LANDSCAPE_590/Hardik-Pandya"
+    },
+    {
+      "id": 1,
+      "playerName": "Virat Kohli",
+      "from": "RCB",
+      "price": "8.00 Cr",
+      "isPlaying": true,
+      "description": "Batsman",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecebee7938ec500060ab34f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1064%26cropX2%3D3400%26cropY1%3D702%26cropY2%3D3039"
+    },
+    {
+      "id": 2,
+      "playerName": "Yuvraj Singh",
+      "from": "MI",
+      "price": "1.00 Cr",
+      "isPlaying": false,
+      "description": "Batsman",
+      "img": "https://pbs.twimg.com/profile_images/1270425854137548800/vBTZcDTv_400x400.jpg"
+    },
+    {
+      "id": 3,
+      "playerName": "Chris Morris",
+      "from": "RR",
+      "price": "16.25 Cr",
+      "isPlaying": true,
+      "description": "All-rounder",
+      "img": "https://cricketaddictor.gumlet.io/wp-content/uploads/2021/02/Chris-Morris-1.jpg?format=webp&compress=true&quality=80&w=480&dpr=2.6"
+    },
+    {
+      "id": 4,
+      "playerName": "Glenn Maxwell",
+      "from": "RCB",
+      "price": "14.25",
+      "isPlaying": true,
+      "description": "All-rounder",
+      "img": "https://www.cricket.com.au/-/media/Players/Men/International/Australia/Glenn-Maxwell-T20I2020.ashx"
+    },
+    {
+      "id": 5,
+      "playerName": "Rohit Sharma",
+      "from": "MI",
+      "price": "6.50 Cr",
+      "isPlaying": true,
+      "description": "BatsMan",
+      "img": "https://m.economictimes.com/thumb/msid-70119616,width-1200,height-900,resizemode-4,imgsize-160034/rohit-sharma-the-odi-cricket-phenomenon.jpg"
+    },
+    {
+      "id": 6,
+      "playerName": "Ishan Kishan",
+      "from": "MI",
+      "price": "2.50 Cr",
+      "isPlaying": true,
+      "description": "BatsMan",
+      "img": "https://assets.thehansindia.com/h-upload/2020/09/28/1600x960_1002021-ishan-kishan.jpg"
+    }
+  ]
